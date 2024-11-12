@@ -1,4 +1,4 @@
-Hello, In this repo I'll stack up all of my certifications, id badges and achievements.
+Hello, In this repo I'll stack up all of my certifications, id badges and achievements. 😄
 
 1. AI/ML from ISRO(Indian Space Research Organisation) - It is course on ai/ml for geological
 data analytics and making advanced machine learning models dor data from ISRO.
